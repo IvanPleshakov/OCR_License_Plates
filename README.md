@@ -8,7 +8,7 @@
 
 **Пример выхода:** 皖AD16688
 
-## Предлагаемая архитектура решения
+## Архитектура решения
 Реализована модель, состоящая из двух блоков: Fully-convolutional CNN (FCNN) и Bi-LSTM. На выходе использован CTC-loss. 
 
 ![Архитектура](https://algocode.ru/files/course_dlfall22/architecture.png)
