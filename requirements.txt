@@ -1,0 +1,9 @@
+torch==2.0.0+cu118
+torchmetrics==0.11.4
+torchvision==0.15.1+cu118
+pandas==1.5.3
+numpy==1.22.4
+cv2==4.7.0
+tqdm==4.65.0
+albumentations==1.2.1
+matplotlib==3.7.1
